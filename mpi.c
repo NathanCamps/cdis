@@ -1,4 +1,4 @@
-#include "mpi.h“
+#include "mpi.h"
 #include <stdio.h>
 Int main( int argc, char * argv[ ] )
 {
