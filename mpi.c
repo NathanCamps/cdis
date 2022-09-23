@@ -1,6 +1,6 @@
 #include "mpi.h"
 #include <stdio.h>
-Int main( int argc, char * argv[ ] )
+int main( int argc, char * argv[ ] )
 {
 int processId; /* rank dos processos */
 int noProcesses; /* Número de processos */
